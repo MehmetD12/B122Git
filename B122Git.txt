@@ -11,4 +11,12 @@ Git 2. Gün 3. Deneme abc branch
 
 Git 2. Gün 4. Deneme abc branch
 
+<<<<<<< HEAD
 ...
+=======
+<<<<<<< Updated upstream
+=======
+...
+1561564165
+>>>>>>> Stashed changes
+>>>>>>> abc
