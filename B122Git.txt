@@ -2,5 +2,4 @@ Git 1. Gün 1. Deneme
 Git 1. Gün 2. Deneme
 Git 1. Gün 3. Deneme
 Git 1. Gün 4. Deneme
-Git 1. Gün 5. Deneme
-Git 1. Gün 6. Deneme
+
